@@ -1,0 +1,12 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+venv_log
+.vscode/
+.idea/
+*.swp
+*.swo
+.env
+*.log
+outputs/
