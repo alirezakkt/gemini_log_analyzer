@@ -29,8 +29,7 @@ Provide a brief overview of what `log_analyzer_v1.py` does. For example:
 
 1.  Clone the repository 
     ```bash
-    git clone <your-repository-url>
-    cd <repository-directory>
+    git clone https://github.com/alirezakkt/gemini_log_analyzer.git>
     ```
 2.  **Install dependencies:**
     If you have a `requirements.txt` file:
